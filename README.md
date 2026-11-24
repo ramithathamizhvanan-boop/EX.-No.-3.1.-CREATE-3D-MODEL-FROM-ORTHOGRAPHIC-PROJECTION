@@ -11,36 +11,43 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+1. First, draw the horizontal and vertical reference lines using a pencil and scale.
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+2. Draw the front view by marking the required length and height according to the given dimensions.
+<img width="713" height="963" alt="1" src="https://github.com/user-attachments/assets/42af35cf-ef2f-4e41-b28a-7df26f6ada71" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+3. Draw a semicircular portion of radius R16 mm on the left side of the front view.
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+4. Mark the centre of the semicircle and draw a circular hole of diameter 16 mm.
+<img width="531" height="700" alt="2" src="https://github.com/user-attachments/assets/5f36b4de-d5fd-4726-853f-dbce53c485a9" />
 
-5.	Use inspect feature to measure the dimensions of sketch.
+5. Extend the rectangular portion towards the right side and mark the length of 36 mm.
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+6. Draw the projecting rectangular portion with a length of 32 mm from the main body.
+<img width="1080" height="491" alt="4" src="https://github.com/user-attachments/assets/88858d8d-8b6e-414d-8418-90fe4da626b5" />
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+7. Next, project the required lines upwards from the front view to draw the top view.
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+8. Draw the outer rectangular shape and provide a slot at the centre with a width of 18 mm, leaving 11 mm on both sides.
 
-7.	Use extrude option to convert 3D model from sketch
+9. Mark the overall dimension of 52 mm and the required 11 mm distance as shown in the drawing.
+<img width="829" height="366" alt="5" src="https://github.com/user-attachments/assets/061dd12c-3a88-4fcd-8985-ee9b2bd04b76" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
+10. Project the front view towards the right side to draw the right-side view.
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
+11. Draw the rectangular shape with dimensions 40 mm × 32 mm and mark the circular hole of diameter 18 mm at the centre.
 
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
+12. Draw all the visible lines, hidden lines and centre lines using the appropriate line types.
+    
 
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
+14. Finally, darken the outlines, erase the unwanted construction lines and mark all the given dimensions neatly.
+
+<img width="686" height="694" alt="6" src="https://github.com/user-attachments/assets/d2bd5c51-2a79-47f1-a56d-fa733714fd72" />
+
 
 ## OUTPUT:
+<img width="1068" height="762" alt="image" src="https://github.com/user-attachments/assets/eae0bd4e-7102-4e72-8ccc-7550a0222476" />
+<img width="990" height="712" alt="image" src="https://github.com/user-attachments/assets/6499db85-3255-4451-a0d1-256901797613" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
